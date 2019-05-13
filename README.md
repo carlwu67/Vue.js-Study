@@ -1,4 +1,4 @@
-# Vue.js-Study
+### Vue.js Study Resource
 ---
 # Vue.js官方學習資源
 
