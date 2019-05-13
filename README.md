@@ -1,4 +1,9 @@
 # Vue.js-Study
+* 設定你操作Git時的識別名稱
+
+		$ git config --global user.name "your name"
+		$ git config --global user.email "your email"
+
 * Vue.js官方學習資源
 
 $ [Vue.js官方網站](https://cn.vuejs.org)
