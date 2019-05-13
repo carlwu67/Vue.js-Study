@@ -2,13 +2,13 @@
 
 ## Vue.js官方學習資源
 
-[Vue.js官方網站](https://cn.vuejs.org)
+* [Vue.js官方網站](https://cn.vuejs.org)
 
-[Vue CLI官方網站](https://cli.vuejs.org/zh/)
+* [Vue CLI官方網站](https://cli.vuejs.org/zh/)
 
-[Vue.js Examples](https://vuejsexamples.com)
+* [Vue.js Examples](https://vuejsexamples.com)
 
-[Vue Router](https://router.vuejs.org/zh/)
+* [Vue Router](https://router.vuejs.org/zh/)
 
 ## Vue-I18n
 
