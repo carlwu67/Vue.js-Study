@@ -1,20 +1,20 @@
 # Vue.js-Study
 
-* Vue.js官方學習資源
+## Vue.js官方學習資源
 
-      [Vue.js官方網站](https://cn.vuejs.org)
+[Vue.js官方網站](https://cn.vuejs.org)
 
-      [Vue CLI官方網站](https://cli.vuejs.org/zh/)
+[Vue CLI官方網站](https://cli.vuejs.org/zh/)
 
-      [Vue.js Examples](https://vuejsexamples.com)
+[Vue.js Examples](https://vuejsexamples.com)
 
-      [Vue Router](https://router.vuejs.org/zh/)
+[Vue Router](https://router.vuejs.org/zh/)
 
-      [Vue I18n](https://kazupon.github.io/vue-i18n/zh/)
+[Vue I18n](https://kazupon.github.io/vue-i18n/zh/)
 
-      [Vue项目的多语言/国际化插件vue-i18n详解](https://blog.csdn.net/qq_25324335/article/details/80767749)
+[Vue项目的多语言/国际化插件vue-i18n详解](https://blog.csdn.net/qq_25324335/article/details/80767749)
 
-### AXIOS
+## AXIOS
 
 [使用 axios 访问 API — Vue.js](https://cn.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html)
 
@@ -22,7 +22,7 @@
 
 [Vue全局使用axios的方法](https://segmentfault.com/a/1190000013128858)
 
-### Vue環境設定在VS Code
+## Vue環境設定在VS Code
 
 [Vue JavaScript Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial)
 
