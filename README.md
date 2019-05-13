@@ -1,7 +1,6 @@
-### Vue.js Study Resource
+# Vue.js Study Resource
+### Vue.js官方學習資源
 ---
-# Vue.js官方學習資源
-
 * [Vue.js官方網站](https://cn.vuejs.org)
 
 * [Vue CLI官方網站](https://cli.vuejs.org/zh/)
@@ -10,8 +9,8 @@
 
 * [Vue Router](https://router.vuejs.org/zh/)
 
-# Vue-I18n
-
+### Vue-I18n
+---
 * [Vue I18n](https://kazupon.github.io/vue-i18n/zh/)
 
 * [Vue项目的多语言/国际化插件vue-i18n详解](https://blog.csdn.net/qq_25324335/article/details/80767749)
