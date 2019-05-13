@@ -1,6 +1,6 @@
 # Vue.js Study Resource
 ### Vue.js官方學習資源
----
+--
 * [Vue.js官方網站](https://cn.vuejs.org)
 
 * [Vue CLI官方網站](https://cli.vuejs.org/zh/)
