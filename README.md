@@ -20,6 +20,8 @@
 ---
 ### AXIOS
 ---
+* [axios中文說明](https://www.kancloud.cn/yunye/axios)
+
 * [用 axios 访问 API — Vue.js](https://cn.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html)
 
 * [Vue.js實戰之使用Vuex axios傳送請求詳解](https://codertw.com/前端開發/241890/)
