@@ -6,9 +6,11 @@
 
 * [Vue CLI官方網站](https://cli.vuejs.org/zh/)
 
-* [Vue.js Examples](https://vuejsexamples.com)
-
 * [Vue Router](https://router.vuejs.org/zh/)
+
+* [Vuex](https://vuex.vuejs.org/zh/)
+
+* [Vue.js Examples](https://vuejsexamples.com)
 ---
 ### Vue-I18n
 ---
@@ -53,6 +55,9 @@
 ### Vue.js Online Coding
 ---
 * [Vue.js Demo By codesandbox](https://codesandbox.io/s/v6q0278x73)
+
+* [JS Bin](https://jsbin.com/?html,js,output)
+
 ---
 ### Vue.js bootstrap 4 Example
 ---
