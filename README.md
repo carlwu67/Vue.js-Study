@@ -28,6 +28,10 @@
 
 * [Vue全局使用axios的方法](https://segmentfault.com/a/1190000013128858)
 ---
+### vue-cli 3.x + typescript
+---
+* [vue-cli 3.x + typescript 起步实践](https://juejin.im/post/5c107ffde51d4519de4f2d0e)
+---
 ### Vue環境設定在VS Code
 ---
 * [Vue JavaScript Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial)
