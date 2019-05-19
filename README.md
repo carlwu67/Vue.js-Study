@@ -27,6 +27,8 @@
 * [Vue.js實戰之使用Vuex axios傳送請求詳解](https://codertw.com/前端開發/241890/)
 
 * [Vue全局使用axios的方法](https://segmentfault.com/a/1190000013128858)
+
+* [Vue & Axios 封裝](https://ithelp.ithome.com.tw/articles/10204698)
 ---
 ### vue-cli 3.x + typescript
 ---
